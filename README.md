@@ -32,5 +32,3 @@ src="https://img.shields.io/twitch/status/jaazmine?logo=twitchsx&style=for-the-b
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/CodeWithJazmine"><img src="https://github-readme-streak-stats.herokuapp.com/?user=CodeWithJazmine&stroke=ffffff&background=181824&ring=ec4899&fire=ec4899&currStreakNum=ffffff&currStreakLabel=ec4899&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-<a href="https://github.com/CodeWithJazmine" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeWithJazmine&langs_count=10&title_color=ec4899&text_color=ffffff&icon_color=6366f1&bg_color=181824&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
