@@ -5,7 +5,7 @@ Game Developer
 --------------
 
 * 🌍  I'm based in Nevada
-* 🧠  Unity Game Development
+* 🧠  Game Development
 
 <a href="https://www.github.com/CodeWithJazmine" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/CodeWithJazmine?logo=github&style=for-the-badge&color=6366f1&labelColor=181824" /></a><a href="https://www.twitter.com/CodeWithJaz" target="_blank" rel="noreferrer"><img
