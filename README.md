@@ -1,34 +1,36 @@
-Hi 👋 My name is Jazmine Chargualaf
-===================================
+<h1 align="left">Hey 👋 I'm Jazmine Chargualaf!</h1>
 
-Game Developer
---------------
+###
 
-* 🌍  I'm based in Nevada
-* 🧠  Game Development
+<h2 align="left">About me</h2>
 
-<a href="https://www.github.com/CodeWithJazmine" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/CodeWithJazmine?logo=github&style=for-the-badge&color=6366f1&labelColor=181824" /></a><a href="https://www.twitter.com/CodeWithJaz" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/CodeWithJaz?logo=twitter&style=for-the-badge&color=6366f1&labelColor=181824"
-/></a><a href="https://www.twitch.tv/jaazmine" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitch/status/jaazmine?logo=twitchsx&style=for-the-badge&color=6366f1&labelColor=181824&label=TWITCH+STATUS" /></a>
+###
 
-### Skills
+<p align="left">✨ Game Developer and Software Engineer based in Las Vegas, NV, USA<br>📚 I'm currently learning backend development (Python and Go)<br>🎯 Goals: Be an employed Game Developer and do 1 unassisted pull-up<br>🎲 Fun fact: I love pilates and strength-training, reading, and listening to synthwave during coding sessions</p>
 
+###
 
-<p align="left">
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
-<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" /></a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
-</p>
+<h2 align="left">Tech Stack</h2>
 
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original.svg" height="40" alt="unrealengine logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="40" alt="unity logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+</div>
 
 ### Socials
 
-<p align="left"> <a href="https://discord.com/users/jaazmine" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/CodeWithJazmine" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/jazminechargualaf" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/jazminechargualaf" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/CodeWithJaz" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a> <a href="https://www.twitch.tv/jaazmine" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitch.svg" width="32" height="32" /></a></p>
+<p align="left"> <a href="https://discord.com/users/jaazmine" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/jazminechargualaf" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/CodeWithJaz" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a> <a href="https://www.twitch.tv/jaazmine" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitch.svg" width="32" height="32" /></a></p>
 
-### Badges
 
-<b>My GitHub Stats</b>
 
-<a href="http://www.github.com/CodeWithJazmine"><img src="https://github-readme-streak-stats.herokuapp.com/?user=CodeWithJazmine&stroke=ffffff&background=181824&ring=ec4899&fire=ec4899&currStreakNum=ffffff&currStreakLabel=ec4899&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
