@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">✨ Game Developer and Software Engineer based in Las Vegas, NV, USA<br>📚 I'm currently learning backend development (Python and Go)<br>🎯 Goals: Be an employed Game Developer and do 1 unassisted pull-up<br>🎲 Fun fact: I love pilates and strength-training, reading, and listening to synthwave during coding sessions</p>
+<p align="left">✨ Game Developer and Software Engineer based in Las Vegas, NV, USA<br>📚 I'm currently learning backend development (TypeScript)<br>🎯 Goals: Be an employed Game Developer and do 1 unassisted pull-up<br>🎲 Fun fact: I love pilates and strength-training, reading, and listening to synthwave during coding sessions</p>
 
 ###
 
