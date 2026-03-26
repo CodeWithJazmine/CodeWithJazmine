@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">✨ Game Developer and Software Engineer based in Las Vegas, NV, USA<br>📚 I'm currently completing The Odin Project<br>🎯 Goals: Do 1 unassisted pull-up<br>🎲 Fun fact: I love pilates and strength-training, reading, and listening to synthwave during coding sessions</p>
+<p align="left">✨ Software Engineer and Game Developer based in Las Vegas, NV, USA<br>📚 I'm currently completing The Odin Project<br>🎯 Goal: Currently seeking a Junior Software Engineer role<br>🎲 Fun fact: I love pilates and strength-training, reading, and listening to synthwave during coding sessions</p>
 
 ###
 
